@@ -413,6 +413,13 @@ An open-source tool for creating professional resumes using markdown, offering l
 
 An open-source personal finance and wealth management application that allows users to manage their finances, with plans for self-hosting and future managed services.
 
+### [Posnic](https://github.com/Posnic/POS)
+![Stars](https://img.shields.io/github/stars/Posnic/POS?style=social)
+
+<img src="https://raw.githubusercontent.com/Posnic/POS/main/builds/512-posnic.png" width="50" height="50">
+
+Open source POS and billing software for retail shops and restaurants, with offline checkout, self-hosted server setup, and optional cloud services. Alternative to Square POS and Shopify POS.
+
 ## Contributing
 
 Feel free to submit a pull request to add more awesome open source SaaS projects! Please ensure your submission is:
