@@ -284,6 +284,13 @@ An open source feedback platform with voting boards, public roadmaps, changelogs
 
 An open-source CRM with native n8n workflow automation, built for small B2B teams. Self-hostable via Docker. Alternative to Pipedrive and HubSpot. Built with TypeScript (Next.js, NestJS, PostgreSQL).
 
+### [Warmbly](https://github.com/warmbly/warmbly)
+![Stars](https://img.shields.io/github/stars/warmbly/warmbly?style=social)
+
+<img src="https://avatars.githubusercontent.com/u/216286592?v=4" width="50" height="50">
+
+An open-source, AI-native cold email and warmup platform with mailbox management, campaign automation, a unified inbox, and deliverability controls. Self-hostable with Docker.
+
 ## Productivity & Project Management
 
 ### [Cal.com](https://github.com/calcom/cal.com)
