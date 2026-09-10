@@ -418,7 +418,7 @@ An open-source personal finance and wealth management application that allows us
 
 <img src="https://raw.githubusercontent.com/Posnic/POS/main/builds/512-posnic.png" width="50" height="50">
 
-Open source POS and billing software for retail shops and restaurants, with offline checkout and self-hosted online/offline workflows. [Official site](https://posnic.io/). Alternative to Square POS and Shopify POS.
+Open source POS and billing software for retail shops and restaurants, with offline checkout and self-hosted online/offline workflows. [Official site](https://www.posnic.com/). Alternative to Square POS and Shopify POS.
 
 ## Contributing
 
